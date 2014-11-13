@@ -1,0 +1,81 @@
+* {
+	font-family: "Lucida Sans Unicode";
+}
+
+div {
+	background-color: gray;
+	border: 15px solid gray;
+}
+
+h1 {
+	background-color: #CFCFCF;
+	padding-left: 20px;
+}
+
+p {
+	margin: 0px 0px 0px 0px;
+	color: white;
+}
+
+span {
+	font-size: 30px;
+}
+.first {
+	background-color: #167EC4;
+}
+
+.second {
+	background-color: #2B93D9;
+}
+
+.third {
+	background-color: #3FA4E8;
+}
+
+.fourth {
+	background-color: #4DAFF0;
+}
+
+.fifth {
+	background-color: #72BCED;
+}
+
+.sixth {
+	background-color: #87C4ED;
+}
+
+.seventh {
+	background-color: #A8D2ED;
+}
+
+.eighth {
+	background-color: #15EB79;
+}
+
+.ninth {
+	background-color: #EBB9D0;
+}
+
+.tenth {
+	background-color: #EBA9CB;
+}
+
+.eleventh {
+	background-color: #EB8FBA;
+}
+
+.twelfth {
+	background-color: #ED72AB;
+}
+
+.thirteenth {
+	background-color: #ED589D;
+}
+
+.fourteenth {
+	background-color: #EB3B8D;
+}
+
+.fifteenth {
+	background-color: #DE1B76;
+}
